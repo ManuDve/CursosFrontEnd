@@ -6,10 +6,10 @@ CRUD con Firebase creado como parte del Bootcamp de Desarollo Front End Trainee 
 
 Puedes acceder creando un nuevo usuario o ocupando los siguientes datos
 
-´´´
+```
 user: example@example.com
 pass: Example123
-´´´
+```
 
 ## Equipo
 
